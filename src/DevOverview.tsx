@@ -1,4 +1,4 @@
-
+import {Link} from 'react-router-dom'
 
 const DevOverview = () => 
 {
@@ -23,7 +23,7 @@ const DevOverview = () =>
                 </li>
             </ul>
         </div>
-        <button id='viewSwitch' ><a href='/'>Go back </a></button>
+        <button id='viewSwitch' ><Link to='/'>Back to Home</Link></button>
         </div>
         </header>
         </div>
