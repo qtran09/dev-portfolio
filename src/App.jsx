@@ -5,7 +5,7 @@ import {HashRouter, Routes, Route} from 'react-router-dom';
 
 function App() {
   return (
-    <HashRouter basename='/dev-portfolio'>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/developer" element={<DevOverview />} />
