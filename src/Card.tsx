@@ -13,7 +13,7 @@ const ProList = (
                 <a href='https://github.com/qtran09' target='_blank' rel='noreferrer'>Github 💻</a>
             </li>
             <li>
-                <a href='/Quyen_Tran_Resume.pdf' target='_blank' rel='noreferrer'>Resume 📃</a>
+                <a href='Quyen_Tran_Resume.pdf' target='_blank' rel='noreferrer'>Resume 📃</a>
             </li>
             <li>
                 <Link to='/developer'>Developer Overview 🤖</Link>
